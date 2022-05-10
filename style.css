@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+.titulo{
+    background-color: red;
+    font-size: 3.2rem;
+}
+
+h2{
+    font-size: 2.24rem;
+}
+
+p{
+    font-size: 1.6rem;
+}
