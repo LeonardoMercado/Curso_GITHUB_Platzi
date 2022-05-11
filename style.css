@@ -4,8 +4,12 @@
 }
 
 .titulo{
-    background-color: red;
+    display: flex;
+    background-color: blue;
     font-size: 3.2rem;
+    min-height: 100px;
+    align-items: center;
+    justify-content: center;
 }
 
 h2{
