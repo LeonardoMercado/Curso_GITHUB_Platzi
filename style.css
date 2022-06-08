@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     font-size: 62.5%;
+    font-family: 'Poppins', sans-serif;
 }
 
 .titulo{
@@ -18,13 +19,21 @@ h2{
 
 p{
     font-size: 1.6rem;
+    text-align: center;
+}
+
+blockquote{
+    font-size: 2.4rem;
+    text-align: center;
+    font-style: italic;
+    font-weight: 900;
 }
 
 .imagenes{
     display: flex;
     align-items: center;
     justify-content: center;
-}s
+}
 
 footer span{
     font-size: 2.6rem;
@@ -39,4 +48,5 @@ footer p{
     background-color: bisque;
     color: black;
     flex-direction: row-reverse;
+    justify-content: center;
 }
